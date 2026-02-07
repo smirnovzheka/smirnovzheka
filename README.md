@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Evgenii
 
-<!--
-**smirnovzheka/smirnovzheka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Software Engineer
+20+ years building software solutions across finance, e-commerce, SaaS, and enterprise systems
 
-Here are some ideas to get you started:
+### What I Do
+I solve problems. The stack is just the tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core strengths:**
+- **System Design** – Architecting scalable distributed systems from scratch
+- **Legacy Modernization** – Containerization, cloud migration, replacing monoliths with microservices
+- **Performance Engineering** – Database optimization, distributed systems, handling high-volume data processing
+- **Full Stack Development** – Backend, frontend, databases, infrastructure – whatever gets the job done
+- **Technical Leadership** – Code reviews, architectural decisions, mentoring engineers
+
+### Recent Focus
+- Designing message processing pipelines for high-volume distributed systems
+- Migrating legacy applications to containerized cloud infrastructure
+- Database performance tuning and architectural optimization
+- Building modern replacements for enterprise legacy systems
+
+### Certifications
+- AWS Solutions Architect Associate
+- AWS Cloud Practitioner
+
+### 📍 Plano, Texas
+
+---
+*"Give me the problem, I'll figure out the solution"*
